@@ -1,0 +1,31 @@
+1. Check login - Done
+2. Check home - Done
+3. Verify carepath data on mobile app- - Done
+4. Check calendar event in phone calendar- Done
+5. Check calendar event in app calendar- Done
+6. Check Type-1 Media and note- Done
+7. Check Type-2 Media and note- Done
+8. Check Type-3 - NA
+9. Check Type-4 - Done
+10. Create couple of appointment with note-data-
+11.  MArk one completed - done
+12. Check on anther device. appointment(Home + Summary), journal
+13. Mark all tasks as done
+14. Check on another device
+15. Upload bills / Reports -d
+16. Upload profile picture - 
+17. Navigation from bottom tray -
+18. Navigation from menu- 
+19. Access Permission -
+20. Update carepath for each element 
+21. Sign out - 
+22. Switch patient-
+
+
+---------------
+
+
+
+
+1. app crashes when url has space
+2. 
