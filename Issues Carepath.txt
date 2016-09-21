@@ -1,0 +1,19 @@
+1. Reminders entries are getting created for the type-4 element even if start date is not defined
+2. Typo in the button label of the other providers
+3. clinic name is not appearing under summary when appointment taken with the hp added by user and not field in physician name
+4. App asking user to choose location even if it is already configured.
+5. No entry under reminders for the appointments taken with hp added by user
+6. Issues observed for the appointment taken with hp added by user
+On synced : 
+1. On child label of appointment [home, calendar and reminders], No clinic / physician name
+2. Junk data instead of HP details on follow through screen.
+
+7. No events are getting created inside the device calendar after syncing
+8. Duplicate reminders are appearing under reminders screen if patient re-login in to the app with same patient id
+
+
+Ashu
+1. Not able to reorder carepath
+2. assig carepath Right arrow icon not working
+3. Duplicate id for home excercise
+4. 
